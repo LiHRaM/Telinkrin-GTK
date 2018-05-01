@@ -1110,7 +1110,8 @@ StScrollBar StButton#hhandle:active {
   height: 1.64em;
   text-shadow: none;
   box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-  background-gradient-direction: none;}
+  background-gradient-direction: none;
+  margin-bottom: 1.3px;}
 
 #panel:overview,
 #panel.unlock-screen,
