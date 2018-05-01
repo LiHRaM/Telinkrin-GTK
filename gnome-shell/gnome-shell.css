@@ -1311,9 +1311,6 @@ StScrollBar StButton#hhandle:active {
   -natural-hpadding: 0px !important;
   height: 0px;}
 
-#panel .clock-display StBoxLayout:last-child > StLabel:last-child {
-
-  color: #66a1b4;}
 
 #panel .popup-menu-arrow {
 
