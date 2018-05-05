@@ -28,7 +28,6 @@ stage {
 
 .button {
 
-  transition-duration: 150ms;
   min-height: 24px;
   padding: 0 16px;
   border-width: 0;
@@ -1143,9 +1142,9 @@ StScrollBar StButton#hhandle:active {
 
 #panel .panel-corner {
 
-  -panel-corner-radius: 0;
-  -panel-corner-background-color: #F4F4F4;
-  -panel-corner-border-width: 2px;
+  -panel-corner-radius: 6px;
+  -panel-corner-background-color: black;
+  -panel-corner-border-width: 3px;
   -panel-corner-border-color: transparent;}
 
 #panel .panel-corner:active,
